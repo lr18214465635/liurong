@@ -3,6 +3,27 @@
     "configurations": [
       {
         "type": "java",
+        "name": "NullPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.NullObject.NullPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "InterpreterPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Interpreter.InterpreterPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "ChainPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.ChainofResponsibility.ChainPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "FlyweightPatternDemo",
         "request": "launch",
         "mainClass": "org.example.Flyweight.FlyweightPatternDemo",
