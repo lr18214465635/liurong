@@ -3,6 +3,41 @@
     "configurations": [
       {
         "type": "java",
+        "name": "FlyweightPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Flyweight.FlyweightPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "DecoratorPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Decorator.DecoratorPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "BridgePatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Bridge.BridgePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "PrototypePatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Prototype.PrototypePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "SingletonPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Singleton.SingletonPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "FactoryPatternDemo",
         "request": "launch",
         "mainClass": "org.example.Factory.FactoryPatternDemo",
